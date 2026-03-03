@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:diamond"},
+    {"item": "minecraft:blaze_rod"},
+    {"item": "minecraft:ender_pearl"}
+  ],
+  "result": {
+    "id": "arcanium:arcanium_shard",
+    "count": 2
+  }
+}

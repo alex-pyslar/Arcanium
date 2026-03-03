@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    "SRS",
+    "SGS"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "G": {"item": "minecraft:gold_ingot"},
+    "R": {"item": "minecraft:redstone"}
+  },
+  "result": {
+    "id": "arcanium:arcane_battery",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SOS",
+    "OEO",
+    "SOS"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "O": {"item": "minecraft:obsidian"},
+    "E": {"item": "minecraft:ender_eye"}
+  },
+  "result": {
+    "id": "arcanium:arcane_conduit",
+    "count": 1
+  }
+}

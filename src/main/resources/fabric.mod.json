@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "arcanium",
+  "version": "${version}",
+  "name": "Arcanium",
+  "description": "Technomagic mod: harness the power of arcane engineering, rune-forged weapons, and arcane conduits.",
+  "authors": ["YourName"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/arcanium/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      {
+        "adapter": "kotlin",
+        "value": "com.arcanium.Arcanium"
+      }
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "fabric-language-kotlin": ">=1.10.0+kotlin.1.9.0",
+    "minecraft": "~1.21.1"
+  }
+}

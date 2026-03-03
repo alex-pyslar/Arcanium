@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SI",
+    "SR ",
+    "R  "
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "I": {"item": "minecraft:iron_ingot"},
+    "R": {"item": "minecraft:redstone"}
+  },
+  "result": {
+    "id": "arcanium:mechanical_drill",
+    "count": 1
+  }
+}

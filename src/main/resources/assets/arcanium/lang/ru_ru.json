@@ -1,0 +1,17 @@
+{
+  "item.arcanium.arcanium_shard": "Осколок арканиума",
+  "item.arcanium.arcane_staff": "Арканный посох",
+  "item.arcanium.rune_blade": "Рунный клинок",
+  "item.arcanium.void_gauntlet": "Перчатка пустоты",
+  "item.arcanium.ether_flask": "Эфирная колба",
+  "item.arcanium.runic_compass": "Рунный компас",
+  "item.arcanium.arcane_lens": "Арканная линза",
+  "item.arcanium.mechanical_drill": "Механическая дрель",
+  "item.arcanium.arcane_battery": "Арканный аккумулятор",
+  "item.arcanium.graviton_pulser": "Гравитонный импульсатор",
+  "block.arcanium.arcanium_block": "Блок арканиума",
+  "block.arcanium.arcane_conduit": "Арканный проводник",
+  "block.arcanium.runic_trap": "Руническая ловушка",
+  "block.arcanium.arcane_reactor": "Арканный реактор",
+  "block.arcanium.arcane_conveyor": "Арканный конвейер"
+}

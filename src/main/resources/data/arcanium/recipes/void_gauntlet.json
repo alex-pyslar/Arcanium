@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "SIS"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "I": {"item": "minecraft:iron_ingot"}
+  },
+  "result": {
+    "id": "arcanium:void_gauntlet",
+    "count": 1
+  }
+}

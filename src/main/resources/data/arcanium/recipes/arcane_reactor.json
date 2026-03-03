@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SOS",
+    "OBO",
+    "SOS"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "O": {"item": "minecraft:obsidian"},
+    "B": {"item": "arcanium:arcanium_block"}
+  },
+  "result": {
+    "id": "arcanium:arcane_reactor",
+    "count": 1
+  }
+}

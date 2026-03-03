@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "IBI",
+    "SIS"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "I": {"item": "minecraft:iron_ingot"},
+    "B": {"item": "minecraft:iron_block"}
+  },
+  "result": {
+    "id": "arcanium:arcane_conveyor",
+    "count": 2
+  }
+}

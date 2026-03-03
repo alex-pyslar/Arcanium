@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    "SES"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "G": {"item": "minecraft:glass_bottle"},
+    "E": {"item": "minecraft:ender_pearl"}
+  },
+  "result": {
+    "id": "arcanium:ether_flask",
+    "count": 1
+  }
+}

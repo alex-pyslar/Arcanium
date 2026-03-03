@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"}
+  },
+  "result": {
+    "id": "arcanium:arcanium_block",
+    "count": 1
+  }
+}

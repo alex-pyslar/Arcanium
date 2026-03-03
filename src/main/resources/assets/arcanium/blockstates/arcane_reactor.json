@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "arcanium:block/arcane_reactor"
+    }
+  }
+}

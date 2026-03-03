@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "S",
+    "B"
+  ],
+  "key": {
+    "S": {"item": "arcanium:arcanium_shard"},
+    "B": {"item": "minecraft:blaze_rod"}
+  },
+  "result": {
+    "id": "arcanium:arcane_staff",
+    "count": 1
+  }
+}

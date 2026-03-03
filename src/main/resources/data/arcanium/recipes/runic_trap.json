@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "arcanium:arcanium_shard"},
+    {"item": "arcanium:arcanium_shard"},
+    {"item": "minecraft:stone_pressure_plate"}
+  ],
+  "result": {
+    "id": "arcanium:runic_trap",
+    "count": 2
+  }
+}

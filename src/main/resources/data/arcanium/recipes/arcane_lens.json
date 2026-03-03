@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GSG",
+    "SES",
+    "GSG"
+  ],
+  "key": {
+    "G": {"item": "minecraft:glass"},
+    "S": {"item": "arcanium:arcanium_shard"},
+    "E": {"item": "minecraft:ender_eye"}
+  },
+  "result": {
+    "id": "arcanium:arcane_lens",
+    "count": 1
+  }
+}

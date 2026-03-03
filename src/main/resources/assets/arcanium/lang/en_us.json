@@ -1,0 +1,17 @@
+{
+  "item.arcanium.arcanium_shard": "Arcanium Shard",
+  "item.arcanium.arcane_staff": "Arcane Staff",
+  "item.arcanium.rune_blade": "Rune Blade",
+  "item.arcanium.void_gauntlet": "Void Gauntlet",
+  "item.arcanium.ether_flask": "Ether Flask",
+  "item.arcanium.runic_compass": "Runic Compass",
+  "item.arcanium.arcane_lens": "Arcane Lens",
+  "item.arcanium.mechanical_drill": "Mechanical Drill",
+  "item.arcanium.arcane_battery": "Arcane Battery",
+  "item.arcanium.graviton_pulser": "Graviton Pulser",
+  "block.arcanium.arcanium_block": "Arcanium Block",
+  "block.arcanium.arcane_conduit": "Arcane Conduit",
+  "block.arcanium.runic_trap": "Runic Trap",
+  "block.arcanium.arcane_reactor": "Arcane Reactor",
+  "block.arcanium.arcane_conveyor": "Arcane Conveyor"
+}
